@@ -1,0 +1,1 @@
+I started off by creating a Vehicle Template project, then adding in the VR Template as a "feature".
