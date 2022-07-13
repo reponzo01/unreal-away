@@ -1,1 +1,7 @@
-I started off by creating a Vehicle Template project, then adding in the VR Template as a "feature".
+- I started off by creating a Vehicle Template project, then adding in the VR Template as a "feature".
+
+- Probably best to create a new player controller and move all vehicle controller to it.
+- or use the vechicle controller in the vr game mode.
+- also, in the sports car pawn, the back camera has auto activate ticked.
+
+- will need to move all car pawn mechanics in event graph to vr pawn.
